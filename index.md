@@ -6,7 +6,7 @@ layout: default
 
 email: thatapplefreak@protonmail.com
 
-phone: (812) 371-9924
+phone: (812) 371-9924 (I prefer messages via [Signal](https://www.signal.org/))
 
 [linkedin.com](https://www.linkedin.com/in/byronzaharako/)
 
